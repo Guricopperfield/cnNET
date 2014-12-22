@@ -1,0 +1,13 @@
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\bin\Debug\cnnet.exe.config
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\obj\Debug\cnnet.csprojResolveAssemblyReference.cache
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\obj\Debug\cnnet.Form2.resources
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\obj\Debug\cnnet.Properties.Resources.resources
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\obj\Debug\cnnet.csproj.GenerateResource.Cache
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\bin\Debug\cnnet.exe
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\bin\Debug\cnnet.pdb
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\obj\Debug\cnnet.exe
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\obj\Debug\cnnet.pdb
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\bin\Debug\MySql.Data.dll
+d:\users\documents\visual studio 2013\Projects\cnnet\cnnet\obj\Debug\cnnet.csproj.cnnet.exe.config
+d:\Users\documents\visual studio 2013\Projects\cnnet\cnnet\obj\Debug\cnnet.cnNET.resources
+d:\Users\documents\visual studio 2013\Projects\cnnet\cnnet\obj\Debug\cnnet.Form3.resources
