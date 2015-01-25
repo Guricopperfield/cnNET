@@ -2,4 +2,4 @@ cnNET
 =====
 
 hackTBILISI Project.
-Try It Out At : http://challengepost.com/software/cnnet
+Read more : http://challengepost.com/software/cnnet
